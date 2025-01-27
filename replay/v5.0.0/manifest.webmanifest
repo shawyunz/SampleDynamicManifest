@@ -1,5 +1,5 @@
 {
-    "name": "Static Manifest Name",
+    "name": "Static Manifest App",
     "short_name": "Static name",
     "display": "standalone",
     "icons": [{
@@ -7,7 +7,7 @@
         "sizes": "144x144",
         "type": "image/png"
     }],
-    "start_url": "/replay/manifest-test.html",
+    "start_url": "/empty.html",
     "background_color": "#ffffff",
     "theme_color": "#000000",
     "scope": "/"
