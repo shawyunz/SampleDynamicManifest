@@ -1,0 +1,14 @@
+{
+    "name": "Static Manifest Name",
+    "short_name": "Static name",
+    "display": "standalone",
+    "icons": [{
+        "src": "/replay/v5.0.0/logo.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }],
+    "start_url": "/replay/manifest-test.html",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "scope": "/"
+}
