@@ -4,7 +4,7 @@
     "display": "standalone",
     "id": "netlify.app",
     "icons": [{
-        "src": "/replay/v5.0.0/logo2.png",
+        "src": "/replay/v5.0.0/logo.png",
         "sizes": "144x144",
         "type": "image/png"
     }],
