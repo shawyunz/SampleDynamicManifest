@@ -1,8 +1,8 @@
 {
-    "name": "Static Manifest App",
+    "name": "Static Manifest 0637",
     "short_name": "Static name",
     "display": "standalone",
-    "id": "netlify.app",
+    "id": "netlify.app0637",
     "icons": [{
         "src": "/replay/v5.0.0/logo.png",
         "sizes": "144x144",
