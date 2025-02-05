@@ -1,10 +1,10 @@
 {
-    "name": "Red Manifest Title",
+    "name": "Manifest  0207",
     "short_name": "Red 0205",
     "display": "standalone",
-    "id": "netlify.app0205",
+    "id": "netlify.app0207",
     "icons": [{
-        "src": "/replay/v5.0.0/logo.png",
+        "src": "/replay/v5.0.0/logog.png",
         "sizes": "144x144",
         "type": "image/png"
     }],
