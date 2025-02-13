@@ -4,11 +4,11 @@
     "display": "standalone",
     "id": "sample-v1",
     "icons": [{
-        "src": "/logo.png",
+        "src": "/sample/logo.png",
         "sizes": "144x144",
         "type": "image/png"
     }],
-    "start_url": "/index.html",
+    "start_url": "/sample/index.html",
     "background_color": "#ffffff",
     "theme_color": "#000000",
     "scope": "/"
