@@ -1,0 +1,15 @@
+{
+    "name": "sample V1",
+    "short_name": "maniv1",
+    "display": "standalone",
+    "id": "sample-v1",
+    "icons": [{
+        "src": "/logo.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }],
+    "start_url": "/index.html",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "scope": "/"
+}

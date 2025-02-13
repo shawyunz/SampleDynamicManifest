@@ -1,10 +1,10 @@
 {
-    "name": "Manifest  0207",
-    "short_name": "Red 0205",
+    "name": "Manifest name V1",
+    "short_name": "maniv1",
     "display": "standalone",
-    "id": "netlify.app0207",
+    "id": "netlify-v1",
     "icons": [{
-        "src": "/replay/v5.0.0/logog.png",
+        "src": "/replay/v1.0.0/logo.png",
         "sizes": "144x144",
         "type": "image/png"
     }],
