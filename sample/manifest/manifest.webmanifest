@@ -1,10 +1,10 @@
 {
-    "name": "sample V1",
-    "short_name": "maniv1",
+    "name": "sample v3",
+    "short_name": "maniv3",
     "display": "standalone",
-    "id": "sample-v1",
+    "id": "sample-v3",
     "icons": [{
-        "src": "/sample/logo.png",
+        "src": "/sample/logog.png",
         "sizes": "144x144",
         "type": "image/png"
     }],
